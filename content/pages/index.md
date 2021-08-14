@@ -36,17 +36,17 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          ##
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         align: left
         image_alt: lorem-ipsum
         image_position: left
